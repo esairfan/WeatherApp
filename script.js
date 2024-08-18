@@ -1,4 +1,4 @@
-const apiKey = '7d6d6b5f6516431dada212321242607'; 
+const apiKey = 'Your-API-key'; 
 const options = {
     method: 'GET',
     headers: {
